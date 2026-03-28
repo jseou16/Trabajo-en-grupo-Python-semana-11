@@ -1,4 +1,4 @@
-# Eejercicio2.py
+# Ejercicio2.py
 
 # Complejidad O(n):
 # Porque el programa recorre los números una sola vez.

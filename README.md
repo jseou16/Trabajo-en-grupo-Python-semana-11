@@ -1,14 +1,14 @@
 #Ejercicio1.py 
 #Tiene complejidad O(1) ya que al tener un numero de datos fijo, no cambia su tiempo de ejecucion segun la "cantidad" de datos, como si lo haria en otras complejidades
 
-# Ejercicio2.py
+#Ejercicio2.py
 
-# Complejidad O(n):
-# Porque el programa recorre los números una sola vez.
-# Si el usuario ingresa n números, el ciclo hace comparaciones para cada número, una por una, sin ciclos anidados. Es decir, el Primer número se usa para inicializar, mientras que los otros n - 1 números: se recorren una vez
-#  También es:
-# O(1):
-# Ya que el programa no guarda todos los números en una estructura como lista. El espacio usado es constante.
+#Complejidad O(n):
+#Porque el programa recorre los números una sola vez.
+#Si el usuario ingresa n números, el ciclo hace comparaciones para cada número, una por una, sin ciclos anidados. Es decir, el Primer número se usa para inicializar, mientras que los otros n - 1 números: se recorren una vez
+#También es:
+#O(1):
+#Ya que el programa no guarda todos los números en una estructura como lista. El espacio usado es constante.
 
 #Ejercicio3.py
 #Este tiene una complejidad de O(n) ya que al tener la lista busca uno por uno dentro de la misma buscando el numero que le pedimos
